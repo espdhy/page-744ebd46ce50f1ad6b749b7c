@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pjlfc.cn/sitemap.xml
